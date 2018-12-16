@@ -1,0 +1,13 @@
+# Machine learning models from scratch
+This GitHUB page is an attempt to understand certain machine learning and deep learning models from scratch. 
+
+## Neural network design from scratch (ANN)
+Description:
+To start with, we will design a neural network that can be parameterized to form shallow or deep neural network. Following are some of the typical parameters that can be tuned.
+- Number of layers, units and their activation functions with options of sigmoid, tanh, relu and leaky relu. We can define softmax function for multi class classifier.
+- Optimizers like Gradient Descent, Gradient Descent with momentum, RMSprop and Adam
+- Batch/Mini batch/Stochastic Gradient
+- Learning rate Decay for better optimization
+- L2 regularization and Drop out regularization methods
+
+We will use a simple petal dataset to train and predict, form decision boundary. This will help us to understand how much Neuralnet is capable of understanding the nonlinear region where traditional machine learning algorithm struggles.
