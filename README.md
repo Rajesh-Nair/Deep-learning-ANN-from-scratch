@@ -1,5 +1,5 @@
 # Deep learning ANN model from scratch
-Designing a model from scratch help you understand the model and also give you insights that help you to resolve practical problems. Though modern day deep learning packages like Tensorflow are quick and efficient, learning from scratch helps you learn the nitty gritty of the model architecture. This GitHUB page is an attempt to understand Artificial Neural Network models from scratch. 
+Designing a model from scratch help you understand the algorithm and also give you much insights to help you solve practical/real world problems. Though modern day deep learning packages like Tensorflow are quick and efficient, learning from scratch helps you learn the nitty gritty of the model architecture. This GitHUB page is an attempt to understand Artificial Neural Network models by developing it from scratch. 
 
 ## Artificial Neural Network design from scratch using numpy (ANN)
 Description:
