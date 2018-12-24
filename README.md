@@ -10,6 +10,6 @@ To start with, we will design a neural network that can be parameterized to form
 - Learning rate Decay for better optimization
 - L2 regularization and Drop out regularization methods
 
-We will creatE a simple petal dataset to train, predict and form decision boundary. This will help us to understand how much Neuralnet is capable of understanding the nonlinear region where traditional machine learning algorithm struggles.
+We will create a simple petal dataset to train, predict and form decision boundary. This will help us to understand how much Neuralnet is capable of understanding the nonlinear region where traditional machine learning algorithm struggles.
 
 ## Reference : Andrew Ng's Deeplearning course on coursera
