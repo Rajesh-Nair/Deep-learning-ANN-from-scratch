@@ -14,6 +14,6 @@ We will create a simple petal dataset to train, predict and form decision bounda
 
 ## Artificial Neural Network design from scratch using tensorflow (ANN)
 Next we would build similar network and process the same dataset using tensorflow which will give you a good comparison between 2 methods. Tensorflow frame is fast, efficient and easier to code. One of important highlight is tensorflow finds its own to do backward propagation and update parameters.
-*NOTE*: This program is written to compare the approach using numpy with that of tensorflow and that this not an ideal from scratch build program
+**NOTE**: This program is written to compare the approach using numpy with that of tensorflow and that this not an ideal build from scratch code.
 
 ## Reference : Andrew Ng's Deeplearning course on coursera
