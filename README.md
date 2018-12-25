@@ -14,6 +14,6 @@ We will create a simple petal dataset to train, predict and form decision bounda
 
 ## Artificial Neural Network design from scratch using tensorflow (ANN)
 Now let's build similar network using tensorflow and process the petal dataset with similar parameters, that will help you understand the advantage of Tensorflow. Tensorflow frame is fast, efficient and easier to code. One of key highlights of tensorflow is it finds its own to do backward propagation and update parameters. There are other benefits that are useful like use of GPU or parallel processing however that is not in scope of our discussion here.
-**NOTE**: The code is written in tensorflow is just to compare the model design approach using numpy and tensorflow.
+**NOTE**: The code written in tensorflow is just to compare the model design approach using numpy and tensorflow.
 
 ## Reference : Andrew Ng's Deeplearning course on coursera
